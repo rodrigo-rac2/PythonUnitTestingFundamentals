@@ -1,0 +1,24 @@
+***************************************
+*     Unit Testing Best Practices     *
+***************************************
+
+1. Write readable unit tests.
+
+2. Refrain from using multiple assertions in a single test.
+
+3. Refrain from adding logic to unit tests.
+
+4. Avoid test interdependencies.
+
+5. Avoid using numeric constant values.
+
+6. Write deterministic tests.
+
+7. Write unit tests while developing the production code.
+
+8. Automate the tests using CI/CD tools.
+
+9. Name the tests names descriptive enough to understand.
+
+10. Refactor the unit tests periodically.
+
